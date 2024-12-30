@@ -3,7 +3,7 @@
 <h1> 💫 About Me: </h1>
 <img align = 'right' src = 'https://user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU1NTQ3MTgsIm5iZiI6MTczNTU1NDQxOCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzktOWMzNTFjYjktYzlhMi00YjIwLTg0MjAtZTk2YjgzMzFhNTNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjMwVDEwMjY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5NzA1OGFlZmNkMWJiZWRkOWNkMTA2OGNjYTk4OGYwOTI4ZGQ4ZTA3NzUyNjQyMTEyOWE2NzgwOWU4YTYzMGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R4QWvL2QshrFucrfWVt6omujEGbeGw_MaR0EaLCr1Is' width = '200'>
 <br>🔭I'm a JAVA Developer <br>
-🧑‍🤝‍🧑 Ready collaborate on Projects<br>
+🧑‍🤝‍🧑 Ready to collaborate on Projects<br>
 💭 Talks about Startup <br>
 📫 Reach me at : <a href="mailto:ashishkumar.govt@gmail.com">ashishkumar.govt@gmail.com</a>
 <br>
