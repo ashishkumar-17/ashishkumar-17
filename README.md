@@ -2,16 +2,36 @@
 
 <h1> 💫 About Me: </h1>
 <img align = 'right' src = 'https://user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU1NTQ3MTgsIm5iZiI6MTczNTU1NDQxOCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzktOWMzNTFjYjktYzlhMi00YjIwLTg0MjAtZTk2YjgzMzFhNTNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjMwVDEwMjY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5NzA1OGFlZmNkMWJiZWRkOWNkMTA2OGNjYTk4OGYwOTI4ZGQ4ZTA3NzUyNjQyMTEyOWE2NzgwOWU4YTYzMGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R4QWvL2QshrFucrfWVt6omujEGbeGw_MaR0EaLCr1Is' width = '200'>
-<br>🔭I'm a JAVA Developer <br>
-🧑‍🤝‍🧑 Ready to collaborate on Projects<br>
-💭 Talks about Startup <br>
+<br>
+"Building Solutions, One Line of Code at a Time"
+<br>
+<br>
+I’m Ashish Kumar, an Engineering student passionate about solving real-world problems through software development. With a strong foundation in Java, DSA, OOPs and Spring Boot.
+<br>
+<br>
+In my journey so far, I’ve:
+<br>
+<br>
+Designed and built RESTful APIs using Spring Boot to streamline backend processes.
+
+Developed scalable applications, leveraging OOP principles and data structures like HashMaps and ArrayLists for performance optimization.
+
+Implemented Docker to simplify deployments and reduce setup times by 90%.
+
+
+My expertise includes backend development, multithreading, microservices, and in-memory data structures. I thrive on challenges that push my problem-solving skills, and I am always eager to learn and adopt new technologies to improve my craft.
+
+I’m excited to contribute to projects that require innovative thinking and technical expertise while working with teams that value growth and collaboration.
+
+Feel free to connect if you’d like to discuss technology, projects, or opportunities where I can make an impact!
+<br>
+<br>
 📫 Reach me at : <a href="mailto:ashishkumar.govt@gmail.com">ashishkumar.govt@gmail.com</a>
 <br>
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumar1707/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishkumar.govt@gmail.com)
 
 # 💻 Tech Stack:
 <img align = 'right' src = 'https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif' width = '400' height = '400'>
@@ -20,13 +40,21 @@
 ### Language
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Hosting / SaaS
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### ORM
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ### Core Expertise
 ![Data Structure and Algorithm](https://img.shields.io/badge/DSA-%23ED8B00.svg?style=for-the-badge&logo=DSA&logoColor=white)
@@ -36,7 +64,10 @@
 ### Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 <br>
 
