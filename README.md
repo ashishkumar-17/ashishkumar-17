@@ -1,98 +1,177 @@
-<img src='https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU1NTQ3MTgsIm5iZiI6MTczNTU1NDQxOCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjMwVDEwMjY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRmOWFjZGI3OGFlZDZlYWU1MDFjZjlhODQwYTZkZjI4Y2U5OWI0MzA2NjUyNTY4ZjMwYzkzYTU0ZTE0NzQxYjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cPZIkEIWvz9zC38wkB1H_7oTHiEbXBk6AJVIJX4M2qM'>
+# Hi there, I'm Ashish Kumar 👋
 
-<h1> 💫 About Me: </h1>
-<img align = 'right' src = 'https://user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU1NTQ3MTgsIm5iZiI6MTczNTU1NDQxOCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA4MzktOWMzNTFjYjktYzlhMi00YjIwLTg0MjAtZTk2YjgzMzFhNTNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjMwVDEwMjY1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY5NzA1OGFlZmNkMWJiZWRkOWNkMTA2OGNjYTk4OGYwOTI4ZGQ4ZTA3NzUyNjQyMTEyOWE2NzgwOWU4YTYzMGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.R4QWvL2QshrFucrfWVt6omujEGbeGw_MaR0EaLCr1Is' width = '200'>
-<br>
-"Building Solutions, One Line of Code at a Time"
-<br>
-<br>
-I’m Ashish Kumar, an Engineering student passionate about solving real-world problems through software development. With a strong foundation in Java, DSA, OOPs and Spring Boot.
-<br>
-<br>
-In my journey so far, I’ve:
-<br>
-<br>
-Designed and built RESTful APIs using Spring Boot to streamline backend processes.
-
-Developed scalable applications, leveraging OOP principles and data structures like HashMaps and ArrayLists for performance optimization.
-
-Implemented Docker to simplify deployments and reduce setup times by 90%.
-
-
-My expertise includes backend development, multithreading, microservices, and in-memory data structures. I thrive on challenges that push my problem-solving skills, and I am always eager to learn and adopt new technologies to improve my craft.
-
-I’m excited to contribute to projects that require innovative thinking and technical expertise while working with teams that value growth and collaboration.
-
-Feel free to connect if you’d like to discuss technology, projects, or opportunities where I can make an impact!
-<br>
-<br>
-📫 Reach me at : <a href="mailto:ashishkumar.govt@gmail.com">ashishkumar.govt@gmail.com</a>
-<br>
-
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumar1707/) 
-
-# 💻 Tech Stack:
-<img align = 'right' src = 'https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif' width = '400' height = '400'>
-<br>
-
-### Language
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### Frameworks
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Hosting / SaaS
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### ORM
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-
-### Core Expertise
-![Data Structure and Algorithm](https://img.shields.io/badge/DSA-%23ED8B00.svg?style=for-the-badge&logo=DSA&logoColor=white)
-![Object Oriend Programming](https://img.shields.io/badge/OOPS-%2307405e.svg?style=for-the-badge&logo=OOPS&logoColor=blue)
-
-
-### Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
-<br>
-
-<div align="">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E96F7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver+%7C+Code+Architect;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/238200839-9c351cb9-c9a2-4b20-8420-e96b8331a53b.gif" width="300" />
+
+## 🚀 About Me
+
+I'm a passionate **Java Backend Developer** and Engineering graduate who believes in *"Building Solutions, One Line of Code at a Time"*. I specialize in creating scalable, efficient backend systems using modern technologies and best practices.
+
+### 💡 What I Do:
+- 🔧 **Backend Development**: Building robust REST APIs with Spring Boot
+- 🏗️ **System Architecture**: Designing scalable microservices architectures  
+- 📊 **Database Design**: Optimizing queries and data structures for performance
+- ⚡ **Performance Optimization**: Implementing caching, indexing, and efficient algorithms
+- 🐳 **DevOps**: Containerization with Docker and cloud deployments
+
+### 🎯 Current Focus:
+- 🌱 Learning **Microservices** and **Apache Kafka** for distributed systems
+- 🔍 Exploring **System Design** patterns and **Clean Architecture**
+- 🚀 Building production-ready applications with comprehensive testing
+- 📈 Contributing to **open-source** projects
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 💻 Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### ⚙️ Tools & Technologies  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### ☁️ Cloud & Deployment
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Projects
+
+### 🔗 [ShortBit - URL Shortener](https://github.com/ashishkumar-17/url-shortener-sb)
+**Full-stack URL shortening service with analytics**
+- 🛡️ **JWT Authentication** & **Spring Security** integration
+- 📊 **Real-time Analytics** dashboard with click tracking  
+- ⚡ **High Performance**: <200ms response time, 99.9% uptime
+- 🐳 **Dockerized** deployment with **MySQL** database
+- 🎨 **React Frontend** with responsive design
+
+**Tech Stack**: `Spring Boot` `MySQL` `JWT` `React` `Docker` `Render`
+
+---
+
+### 💰 [Income Expense Manager](https://github.com/ashishkumar-17/income-expense-manager)
+**Personal finance management application**
+- 📈 **Budget Planning** with category-wise expense tracking
+- 📄 **PDF Report Generation** for financial summaries
+- 🔍 **Advanced Filtering** and search capabilities
+- 🧪 **Unit Testing** with JUnit and comprehensive exception handling
+
+**Tech Stack**: `Spring Boot` `MySQL` `JPA/Hibernate` `JavaScript` `PDF Generation`
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashishkumar-17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-17&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumar-17&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
+- 🥇 **Top 25%** - Invictus Coding Contest by DTU (2025)
+- 📜 **Software Development** - Coursera (2025)  
+- 💻 **DSA with Java** - Apna College (2024)
+- 🔧 **Spring Boot Microservices** - In Progress
+
+---
+
+## 📈 What I'm Working On
+
+```java
+public class CurrentGoals {
+    private String[] learningTech = {
+        "Apache Kafka", "Microservices Architecture", 
+        "System Design", "AWS Services", "Kubernetes"
+    };
+    
+    public void improveSkills() {
+        while (passionate) {
+            learnNewTechnology();
+            buildCoolProjects();
+            contributeToOpenSource();
+        }
+    }
+}
+```
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishkumar1707/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashishk.bits@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashishkumar-17)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://ashishkumar-17.github.io/portfolio/)
+
+</div>
+
+---
+
+## 💭 Developer Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  
+### 🎯 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=ashishkumar-17&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+</div>
+
+---
+
+<details>
+<summary>🎨 Fun Zone (Click to expand)</summary>
+<br>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  **When my code works on the first try:**
+  
+  <img src="https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif" width="200"/>
+  
+  **When I find the bug after 3 hours:**
+  
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200"/>
+</div>
+
+</details>
