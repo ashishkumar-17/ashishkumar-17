@@ -82,19 +82,6 @@ I'm a passionate **Java Backend Developer** and Engineering graduate who believe
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashishkumar-17&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkumar-17&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkumar-17&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏅 Achievements & Certifications
 
 - 🥇 **Top 25%** - Invictus Coding Contest by DTU (2025)
